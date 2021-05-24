@@ -1,0 +1,11 @@
+export const STATES = {
+  DEFAULT: 'DEFAULT',
+  LOADING: 'LOADING',
+  SUCCESS: 'SUCCESS',
+  ERROR: 'ERROR',
+  READY: 'READY'
+};
+
+export const RESPONSE_CODES = {
+  SUCCESS: 200
+};
